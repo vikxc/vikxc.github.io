@@ -1,4 +1,17 @@
-title: vikxc
-description: Personal site
-theme: jekyll-theme-primer
+title: vikxc 
+description: Personal website
+baseurl: ""          # keep empty for root-level site
+markdown: kramdown
+theme: null          # we’ll use our own tiny layout
+permalink: pretty
+
+# Collections for notes
+collections:
+  notes:
+    output: true
+    permalink: /notes/:path/
+
+# Build settings
+exclude:
+  - README.md
 

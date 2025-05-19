@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-# Hello
+# Hi, I'm vikxc
 
-Welcome to my website.
+Welcome to the construction site of my website. 
+→ For more, see the [about](/about/) page or my [notes](/notes/).
 

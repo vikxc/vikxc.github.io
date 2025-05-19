@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <main style="max-width:650px;margin:2rem auto 4rem;padding:0 1rem;line-height:1.6">
+    {% include nav.html %}
+    {{ content }}
+    {% include footer.html %}
+  </main>
+</body>
+</html>
+

@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# About Me
+# About 
 
-I'm interested in ...
-
+Here, I will put a sentence or two about myself. 
+Not sure what yet. 
