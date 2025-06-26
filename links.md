@@ -16,7 +16,7 @@ A wild and mostly uncurated list of websites I like:
 * [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) – A list of things you're allowed to do (by Milan Cvitić)
 
 
-## SV-core
+## Tech / Silicon Valley
 
 * [Patrick Collison's website](https://patrickcollison.com/) – Technology and society
 * [Kanjun Qiu's website](https://kanjunqiu.com/) – Agency
