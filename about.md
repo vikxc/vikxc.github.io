@@ -14,7 +14,6 @@ Here's a somewhat random and super incomplete assortment of questions and intere
 - What does our psyche look like in 10,000 years?
     - Our brains (and bodies) are machines that overlay our present with experiences from the past (ours, and those of thousands of generations before us). How malleable is this?
     - How basic are human experiences such as love, freedom, agency, trust, identity, death, joy, grief, resistance, letting go, ...?
-    - ...
 
 - Why do all humans form an ego, when most animals seem not to?
 
@@ -34,7 +33,6 @@ Here's a somewhat random and super incomplete assortment of questions and intere
     - How does learning show up in the brain?
     - How are memories formed and retrieved?
     - Why is the information throughput of a human brain limited to [~10 bits per second](https://arxiv.org/abs/2408.10234)?
-    - ...
 
 ## Interests
 
