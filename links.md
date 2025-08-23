@@ -7,7 +7,7 @@ title: Links
 A wild and uncurated list of websites.
 
 
-* [Bret Victor](https://worrydream.com/) and [dynamicland](https://dynamicland.org/) 
+* [Bret Victor](https://worrydream.com/) and [Dynamicland](https://dynamicland.org/) 
 
 * [Patrick Collison](https://patrickcollison.com/) 
 
