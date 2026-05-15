@@ -5,7 +5,7 @@ title: About
 
 # About 
 
-Some questions and interests of mine:
+Here is a list of some questions and interests of mine. For other thoughts I have taken the time to write up, see my [notes](https://vikxc.github.io/notes/).
 
 ## Questions
 
@@ -30,9 +30,6 @@ Some questions and interests of mine:
 - Why, after >100 years, is there no consensus on the interpretation of quantum mechanics?
 
 - How does the brain work?
-    - How does learning show up in the brain?
-    - How are memories formed and retrieved?
-    - Why is the information throughput of a human brain limited to [~10 bits per second](https://arxiv.org/abs/2408.10234)?
 
 ## Interests
 
@@ -40,7 +37,7 @@ Some questions and interests of mine:
 
 - Tools for thought and understanding
 
-- Science; the institutions and processes that birthed modern science 
+- Science; the institutions and processes that made modern science 
 
 - Spirituality; living in the world, being human, ...
 
