@@ -5,7 +5,7 @@ title: About
 
 # About 
 
-Here's a somewhat random and super incomplete assortment of questions and interests of mine.
+Some questions and interests of mine:
 
 ## Questions
 
